@@ -4,6 +4,10 @@
 
 [![Nuget Democrite](https://img.shields.io/nuget/dt/democrite.framework.core.svg?color=%23512BD4&label=Nuget%20Democrite%20Framework%20downloads)](https://www.nuget.org/packages?q=democrite) [![MIT License](https://img.shields.io/github/license/nexai-net/democrite?color=%230b0&style=flat-square)](https://github.com/nexai-net/democrite/blob/main/LICENSE) [![Help Wanted](https://img.shields.io/github/issues/nexai-net/democrite/help%20wanted?color=%232EA043&label=help%20wanted&style=flat-square)](https://github.com/nexai-net/democrite/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![Good First Issues](https://img.shields.io/github/issues/nexai-net/democrite/good%20first%20issue?color=%23512BD4&label=good%20first%20issue&style=flat-square)](https://github.com/nexai-net/democrite/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
+## In memory of Mickael Thumerel (from Jerome Fortias)
+- [x] Mickael Thumerel died on December 22, 2024 at the age of 35. He single-handedly developed Démocrite right up to the beta version. I'm taking over, and that's no mean feat.
+- [x] He was my friend, my partner. I'd like to thank Amexio again for giving him all the time he needed to develop Démocrite. During all this time, Mickael was extremely happy.
+      
 ### Democrite is an open-source framework for building robust, scalable and distributed 'multi-agent like' system based on [Microsoft Orleans](https://github.com/dotnet/orleans).
 
 ### this is my working space for democrite project ! the organisation Nexai-net keeps the original version. ###
@@ -915,6 +919,4 @@ In the section [Sample/DynamicDefinition](/samples/DynamicDefinition//)
 - [Microsoft Orleans: Documentation](https://docs.microsoft.com/dotnet/orleans/)
 - [Nexai Community](https://www.nexai-community.net/)
 
-## In memory of Mickael Thumerel (from Jerome Fortias)
-- [x] Mickael Thumerel died on December 22, 2024 at the age of 35. He single-handedly developed Démocrite right up to the beta version. I'm taking over, and that's no mean feat.
-- [x] He was my friend, my partner. I'd like to thank Amexio again for giving him all the time he needed to develop Démocrite. During all this time, Mickael was extremely happy.   
+

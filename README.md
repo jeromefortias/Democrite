@@ -6,7 +6,7 @@
 
 ## In memory of Mickael Thumerel 
 - [x] Mickael Thumerel died on December 22, 2024 at the age of 35. He single-handedly developed Démocrite right up to the beta version. I'm taking over, and that's no mean feat.
-- [x] He was my friend, my partner. I'd like to thank Amexio again for giving him all the time he needed to develop Démocrite. During all this time, Mickael was extremely happy.
+- [x] He was my friend, my business partner. I'd like to thank Amexio again for giving him all the time he needed to develop Démocrite. During all this time, Mickael was extremely happy.
       
 ### Democrite is an open-source framework for building robust, scalable and distributed 'multi-agent like' system based on [Microsoft Orleans](https://github.com/dotnet/orleans).
 
